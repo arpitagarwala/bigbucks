@@ -7,7 +7,7 @@ A beautiful, minimal, and fast price comparison platform that aggregates product
 
 ## 🚀 Live Demo
 
-Hosted on GitHub Pages: [https://arpitagarwala.github.io/Bigbucks](https://arpitagarwala.github.io/Bigbucks)
+Hosted on GitHub Pages: [https://arpitagarwala.github.io/bigbucks](https://arpitagarwala.github.io/bigbucks)
 
 ---
 
